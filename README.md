@@ -1,7 +1,9 @@
 # charity-testing-challenge
 
 ✅ Writing Bug Reports: Learned how to effectively communicate and document bugs, ensuring developers can easily understand and address issues.
+
 ✅ Test Case Creation: Dived into the intricacies of crafting comprehensive test cases using cutting-edge test design techniques, ultimately enhancing test coverage.
+
 ✅ Exploratory Testing: Unleashed my creativity and intuition while exploring the software's nooks and crannies, uncovering hidden bugs and vulnerabilities.
 
 🏆 Benefits:
